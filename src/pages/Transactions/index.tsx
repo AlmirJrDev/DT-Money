@@ -25,8 +25,8 @@ export function Transactions() {
                         <td>13/03/2022</td>
                     </tr>
                     <tr>
-                        <td width='50p%'>Faculdade</td>
-                        <td><PriceHighLight variant="outcome">-R$32,00</PriceHighLight></td>
+                        <td width='50p%'>Cinema</td>
+                        <td><PriceHighLight variant="outcome">-R$50,00</PriceHighLight></td>
                         <td>Venda</td>
                         <td>13/03/2022</td>
                     </tr>
