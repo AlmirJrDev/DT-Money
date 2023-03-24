@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site ",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-03-15T15:39:48.716Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-03-15T15:50:48.716Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-03-15T15:33:48.716Z"
+    },
+    {
+      "id": 4,
+      "description": "Cursos",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 150,
+      "createdAt": "2023-03-15T15:33:48.716Z"
+    },
+    {
+      "description": "Salario",
+      "price": 1500,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2023-03-22T14:03:47.386Z",
+      "id": 5
+    },
+    {
+      "description": "Mouse Redragon Cobrea",
+      "price": 117,
+      "category": "Periferico | Pc",
+      "type": "outcome",
+      "createdAt": "2023-03-22T14:26:01.215Z",
+      "id": 6
+    }
+  ]
+}
