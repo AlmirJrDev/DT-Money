@@ -11,7 +11,6 @@ export const TransactionsTable = styled.table`
   width: 100%;
   border-collapse: separate;
   border-spacing: 0 0.5rem;
-  /*margin-top: 1.5rem;*/
 
   td {
     padding: 1.25rem 2rem;
@@ -27,7 +26,27 @@ export const TransactionsTable = styled.table`
       border-bottom-right-radius: 6px;
     }
   }
+
+  @media screen and (max-width: 768px) {
+    td {
+      padding: 1rem;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    td:nth-child(1),
+    td:nth-child(3),
+    td:nth-child(4),
+    td:nth-child(5) {
+      display: none;
+    }
+
+    td:nth-child(2) {
+      padding: 1rem 0;
+    }
+  }
 `
+
 interface PriceHighLightProps {
   variant: 'income' | 'outcome'
 }

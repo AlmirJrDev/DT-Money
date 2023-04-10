@@ -11,6 +11,14 @@ export const SummaryContainer = styled.section`
   gap: 2rem;
 
   margin-top: -5rem;
+
+  @media screen and (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media screen and (max-width: 480px) {
+    grid-template-columns: 1fr;
+  }
 `
 
 interface SummaryCardProps {
@@ -39,4 +47,8 @@ export const SummaryCard = styled.div<SummaryCardProps>`
     css`
       background: ${(props) => props.theme['green-700']};
     `}
+
+  @media screen and (max-width: 480px) {
+    padding: 1rem;
+  }
 `
