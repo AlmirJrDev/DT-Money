@@ -1,36 +1,5 @@
 {
   "transactions": [
-    {
-      "description": "Balão",
-      "price": 38,
-      "category": "Aventureiro",
-      "type": "outcome",
-      "createdAt": "2023-03-25T21:59:44.493Z",
-      "id": 1
-    },
-    {
-      "description": "Cursos",
-      "price": 1000,
-      "category": "EDUCAÇÃO",
-      "type": "income",
-      "createdAt": "2023-03-25T22:00:25.843Z",
-      "id": 2
-    },
-    {
-      "description": "32",
-      "price": 32,
-      "category": "32",
-      "type": "income",
-      "createdAt": "2023-04-08T21:21:13.874Z",
-      "id": 3
-    },
-    {
-      "description": "32",
-      "price": 32,
-      "category": "32333",
-      "type": "income",
-      "createdAt": "2023-04-10T12:37:52.097Z",
-      "id": 4
-    }
+   
   ]
 }
