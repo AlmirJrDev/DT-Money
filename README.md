@@ -55,5 +55,4 @@ Se você quiser contribuir com este projeto, siga estas etapas:
 ## Licença
 
 Este projeto usa a licença MIT.
-```
 
