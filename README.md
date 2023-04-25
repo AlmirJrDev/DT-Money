@@ -31,10 +31,12 @@ npm install
 
 Para executar o projeto, execute o seguinte comando:
 
+Ativar Front-end
 ```bash
 npm run dev 
 ```
 
+Ativar Back-end
 ```bash
 npm run dev:server
 ```
