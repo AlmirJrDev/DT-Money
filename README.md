@@ -1,6 +1,5 @@
 
 
-```markdown
 # Controle de Finanças
 
 Este é um projeto de controle de finanças que ajuda a manter o controle das finanças. Com essa aplicação, você pode facilmente monitorar despesas e receitas e ter uma visão geral do orçamento. Além disso, a aplicação é fácil de usar e tem uma interface amigável para o usuário.
